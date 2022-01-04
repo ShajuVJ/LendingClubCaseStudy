@@ -23,4 +23,4 @@ Technologies Used:
 
  Developed by:
  
- * [Shaju V J](https://github.com/ShajuVJ/)
+ * Shaju V J
